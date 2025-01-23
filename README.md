@@ -14,4 +14,5 @@ image: "/images/EDIT-IMG-NAME.png"  # optional image
 ---
 
 <img src="/images/EDIT-IMG-NAME.png">```
+
 4. Submit pull request.
