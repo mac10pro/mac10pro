@@ -13,6 +13,6 @@ date: 2025-01-01
 image: "/images/EDIT-IMG-NAME.png"  # optional image
 ---
 
-<img src="/images/EDIT-IMG-NAME.png">```
+<img src="/images/EDIT-IMG-NAME.png">
 
 4. Submit pull request.
