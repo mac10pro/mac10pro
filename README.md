@@ -19,4 +19,7 @@ image: "/images/EDIT-IMG-NAME.png"  # optional image
 
 ---
 
-Using Github Pages has its benefits. For one, I can use Github actions to help me deploy based on if any changes were made. Image size is important to me, but I feel if I want to make X posts a day for content, I'm going to be unable to optimize everything. ImgBot allows me to optimize as I go. Each day it will seek images, and optimize them automatically, and create a pull request for me to merge. It's very convenient for an image blog like this.
+Using Github Pages has its benefits. 
+- For one, I can use Github actions to help me deploy based on if any changes were made.
+- Image size is important to me, but I feel if I want to make X posts a day for content, I'm going to be unable to optimize everything.
+- ImgBot allows me to optimize as I go. Each day it will seek images, and optimize them automatically, and create a pull request for me to merge. It's very convenient for an image blog like this.
