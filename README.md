@@ -8,7 +8,7 @@ If you're looking to collaborate and add images to mac10.pro's image blog, relat
 ---
 layout: post
 title: "page title"
-excerpt: "page title"
+excerpt: "page excerpt"
 date: 2025-01-01
 image: "/images/EDIT-IMG-NAME.png"  # optional image
 ---
